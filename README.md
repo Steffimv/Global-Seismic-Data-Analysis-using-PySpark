@@ -25,8 +25,7 @@ By leveraging distributed data processing through PySpark, this project demonstr
 | Data Handling | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn, Plotly |
 | Environment | Jupyter Notebook |
-| Dataset Source | Global Earthquake Dataset (e.g., USGS) |
-
+| Dataset Source | [Global Seismic Dataset (2000–2024)](https://github.com/nadeeshafdo/SeismicDataWorldwide/blob/main/query_M4.5%2B_2000-2024.csv) |
 ---
 
 ## Methodology
